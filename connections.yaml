@@ -1,0 +1,13 @@
+---
+UniqueID: HPQ-TRACKING
+Address: hana-hpj.sku-mart.com
+Port: 30625
+Username: TRACKING
+EncryptedPassword: vLkMJypLU8gqPuoFr9vSDkTq
+
+---
+UniqueID: HPF-ANALYSIS
+Address: hana-hpm.sku-mart.com
+Port: 30935
+Username: ANALYSIS
+EncryptedPassword: xvLGvONK5NSAZuJ0iqNH0GM1

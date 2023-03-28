@@ -1,0 +1,1 @@
+# hana-data-quality-slack
